@@ -1,2 +1,3 @@
 # cytoscape-style
-Style for cytoscape visualisation
+Styles for cytoscape visualisation
+Put them in your cytoscape
